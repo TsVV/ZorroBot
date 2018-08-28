@@ -1,7 +1,7 @@
 # Fetch command line arguments
 myArgs <- commandArgs(trailingOnly = TRUE)
 
-# Return the population by country ------------------------------------------
+# Return the population by country
 
 countries = c(as.character(myArgs))
 
