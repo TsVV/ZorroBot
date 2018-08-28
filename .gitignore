@@ -4,3 +4,5 @@
 .Ruserdata
 !init_python.r
 ZorroBot.Rproj
+config.py
+test_001.r
