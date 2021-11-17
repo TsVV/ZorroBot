@@ -1,0 +1,8 @@
+{
+	"telegram_api_token": "<put your token here>",
+	
+	"trello_api_key": "<put your token here>",
+	"trello_api_secret": "<put your token here>",
+	"trello_token": "<put your token here>",
+	"trello_token_secret": "<put your token here>",
+}
