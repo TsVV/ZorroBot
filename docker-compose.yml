@@ -4,7 +4,7 @@ version: '3'
 # a container with interactive session.   
 services:
     app:
-        container_name: financebot
+        container_name: zorro-bot
         build: .
         restart: unless-stopped
         stdin_open: true
